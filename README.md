@@ -1,6 +1,6 @@
 # Vowel Counter
 
-This C++ program counts the number of vowels in a given word. The program utilizes an unordered set to efficiently determine the count of vowels in a word.
+This C++ program accepts a string and returns the number of vowels present in the word. It efficiently utilizes an unordered set to determine the count of vowels in the given word. The 'Tests'  folder contains the unit tests of the program.
 
 ## Instructions
 
