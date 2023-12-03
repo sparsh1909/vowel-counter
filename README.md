@@ -1,6 +1,18 @@
 # Vowel Counter
 
-This C++ program accepts a string and returns the number of vowels present in the word. It efficiently utilizes an unordered set to determine the count of vowels in the given word. The 'Tests'  folder contains the unit tests of the program.
+This C++ program efficiently determines the count of vowels present in a given string using an unordered set. The program's time and space complexity are analyzed, and detailed instructions for cloning, compiling, and running the code are provided.
+
+## Program Overview
+
+The program utilizes the `countVowels` function, which takes a string as input and returns the number of vowels present in the word. The function employs an unordered set to store the vowels, enabling efficient character comparisons.
+
+## Time and Space Complexity Analysis
+
+**Time Complexity:** O(n)  
+The time complexity of the `countVowels` function is O(n), where n is the length of the input string. This indicates that the time taken by the function to execute grows linearly with the length of the input word.
+
+**Space Complexity:** O(1)  
+The space complexity of the `countVowels` function is O(1), signifying that the amount of memory consumed by the function remains constant regardless of the input string's length.
 
 ## Instructions
 
